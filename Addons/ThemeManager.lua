@@ -45,13 +45,13 @@ do
         ["Default"] = {
             1,
             httpService:JSONDecode(
-                [[{"FontColor":"ffffff","MainColor":"191919","AccentColor":"7d55ff","BackgroundColor":"0f0f0f","OutlineColor":"282828"}]]
+                [[{"FontColor":"ffffff","MainColor":"191919","AccentColor":"01e1ff","BackgroundColor":"0f0f0f","OutlineColor":"282828"}]]
             ),
         },
         ["BBot"] = {
             2,
             httpService:JSONDecode(
-                [[{"FontColor":"ffffff","MainColor":"1e1e1e","AccentColor":"7e48a3","BackgroundColor":"232323","OutlineColor":"141414"}]]
+                [[{"FontColor":"ffffff","MainColor":"1e1e1e","AccentColor":"01e1ff","BackgroundColor":"232323","OutlineColor":"141414"}]]
             ),
         },
         ["Fatality"] = {
